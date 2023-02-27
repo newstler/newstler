@@ -21,3 +21,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/yurisidorov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### [Support Ukraine 🇺🇦](http://stand-with-ukraine.pp.ua)
