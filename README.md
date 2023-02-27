@@ -20,6 +20,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Support
 
-<a href="" target="_blank"><img src="https://github.com/newstler/newstler/blob/main/images/stand_with_ukraine.png?raw=true" width="200" /></a>
+<a href="http://stand-with-ukraine.pp.ua" target="_blank"><img src="https://github.com/newstler/newstler/blob/main/images/stand_with_ukraine.png?raw=true" width="200" /></a>
 <a href="https://www.buymeacoffee.com/yurisidorov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
