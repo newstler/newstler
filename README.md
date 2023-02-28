@@ -3,7 +3,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 *   🌍  Currently in Zagreb, Croatia
 *   ✉️  You can contact me at [hey@yurisidorov.com](mailto:hey@yurisidorov.com)
-*   🚀  I'm currently working on [BulletTrain](http://bullettrain.com)
+*   🚀  I'm currently working on [BulletTrain](http://bullettrain.co)
 
 
 ### Skills  
