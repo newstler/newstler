@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-*   📍  Currently in Barcelona, Spain 🇪🇸
+*   📍  I'm currently in Barcelona, Spain 🇪🇸
 *   ✉️  You can contact me at [hey@yurisidorov.com](mailto:hey@yurisidorov.com)
 *   🚀  Working on [BulletTrain](http://bullettrain.co)
 
