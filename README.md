@@ -4,7 +4,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 *   👨🏼‍💻  I'm author of [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema), [RRule Swift Package](https://github.com/newstler/rrule) and [Bullet Train](http://bullettrain.co) Core team member
 *   📍  Currently in Barcelona, Spain 🇪🇸
 *   ✉️  You can contact me at [hey@yurisidorov.com](mailto:hey@yurisidorov.com)
-*   🚀  Free to hire now! Here's my [CV](https://viewscreen.githubusercontent.com/view/pdf?browser=safari&bypass_fastly=true&color_mode=light&commit=4afbabc2de1f0a5f2e1808ac01d52b6125980383&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e657773746c65722f6e657773746c65722f346166626162633264653166306135663265313830386163303164353262363132353938303338332f66696c65732f597572695f5369646f726f765f43565f323032345f2d5f536f6674776172655f456e67696e6565722e706466&logged_in=true&nwo=newstler%2Fnewstler&path=files%2FYuri_Sidorov_CV_2024_-_Software_Engineer.pdf&platform=mac&repository_id=607358042&repository_type=Repository&version=17#db3256b4-0ab9-4edf-a4db-f8cf3cb5a7f0)
+*   🚀  Free to hire now! Here's my [CV](https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2024_-_Software_Engineer.pdf)
 
 
 ### Skills  
