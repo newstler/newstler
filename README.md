@@ -18,9 +18,9 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 <p align="left">
 <a href="http://www.github.com/newstler"><img src="https://github-readme-stats.vercel.app/api?username=newstler&show_icons=true&count_private=true&theme=transparent&hide_border=true&custom_title=Github%20Stats&title_color=777777&text_color=777777&icon_color=FFDD00&ring_color=FFDD00" alt="newstler's GitHub stats" /></a>
 </p>
-
+<!--
 ### Support
 
 <a href="http://stand-with-ukraine.pp.ua" target="_blank"><img src="https://github.com/newstler/newstler/blob/main/images/stand_with_ukraine.png?raw=true" width="200" /></a>
 <a href="https://www.buymeacoffee.com/yurisidorov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+-->
