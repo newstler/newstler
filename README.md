@@ -1,7 +1,7 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-*   👨🏼‍💻  I'm author of [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema), [RRule Swift Package](https://github.com/newstler/rrule) and [Bullet Train](http://bullettrain.co) Core team member
+*   👨🏼‍💻  I'm author of [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema) and [RRule Swift Package](https://github.com/newstler/rrule), and [Bullet Train](http://bullettrain.co) Core team member
 *   📍  Currently in Barcelona, Spain 🇪🇸
 *   ✉️  You can contact me at [hey@yurisidorov.com](mailto:hey@yurisidorov.com)
 *   🚀  Free for hire now! Here's my [CV](https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2024_-_Software_Engineer.pdf)
