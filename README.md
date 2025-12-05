@@ -6,7 +6,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 *   🌐  Check out my [website](https://yurisidorov.com)
 *   📞  Book a [call](https://cal.com/yurisidorov)
 
-*   🚀  Free for hire now! Here's my [CV]&#40;https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2026_-_Software_Engineer.pdf&#41;
+*   🚀  Free for hire now! Here's my [CV](https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2026_-_Software_Engineer.pdf)
 
 
 ### Skills  
