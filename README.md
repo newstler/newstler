@@ -1,8 +1,8 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-*   👨🏼‍💻  I'm the author of [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema) and [RRule Swift Package](https://github.com/newstler/rrule), and [Bullet Train](http://bullettrain.co) Core team member
-*   📍  Currently in Barcelona, Spain 🇪🇸
+*   👨🏼‍💻  I'm the author of [Why Ruby?](https://whyruby.info), [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema) and [RRule Swift Package](https://github.com/newstler/rrule), and [Bullet Train](http://bullettrain.co) Core team member
+*   📍  Currently in Girona, Spain 🇪🇸
 *   🌐  Check out my [website](https://yurisidorov.com)
 *   📞  Book a [call](https://cal.com/yurisidorov)
 
