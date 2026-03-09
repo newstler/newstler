@@ -1,32 +1,31 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+# Hey, I'm Yuri 👋
 
-*   👨🏼‍💻  I'm running [Why Ruby?](https://whyruby.info) and [RubyCommunity.org](https://rubycommunity.org), and is the author of [jbuilder-schema gem](https://github.com/bullet-train-co/jbuilder-schema) and [RRule Swift Package](https://github.com/newstler/rrule), and [Bullet Train](http://bullettrain.co) Core team member
-*   📍  Currently in Girona, Spain 🇪🇸
-*   🌐  Check out my [website](https://yurisidorov.com)
-*   📞  Book a [call](https://cal.com/yurisidorov)
+Rails since 2008. AI since it got good. 20+ years in tech (started as a designer, which shaped a product-oriented approach).
 
-*   🚀  Free for hire now! Here's my [CV](https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2026_-_Software_Engineer.pdf)
+Now focused on bringing AI capabilities into Rails: agent tooling, MCP integration, evaluation pipelines. EuRuKo 2025 speaker.
 
+**💼 I'm looking for work** — Rails + AI, remote. [Hire me](https://yurisidorov.com) · [Book a call](https://cal.com/yurisidorov) · [CV](https://github.com/newstler/newstler/raw/main/files/Yuri_Sidorov_CV_2026_-_Software_Engineer.pdf)
 
-### Skills  
+### What I'm building
 
-<p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a> </p> 
+- 🌐 **[rubycommunity.org](https://rubycommunity.org)** — Open-source Ruby developer leaderboard based on daily GitHub star trends
+- 💎 **[whyruby.info](https://whyruby.info)** — Community-driven site promoting Ruby: articles, success stories, testimonials
+- ⛵ **[Sailing+](https://sailing.plus)** — Adventure management platform for sailing organizers: trip planning, crew management, marketplace
+- 🤖 **[AI Form Fill](https://aiformfill.com)** — Chrome extension that fills web forms with AI
+- 💰 **[Capitalismo](https://capitalismo.app)** — iOS money-planner in SwiftUI, 5-star rating on App Store
+- 🎵 **[Listen With Me](https://listenwith.me)** — Cross-platform music-link converter bridging 10+ streaming services
 
-<!--
-### Socials
+### Open source
 
-<p align="left"> <a href="https://www.linkedin.com/in/yurisidorov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/yurisidorov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yurisidorov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yurisidorov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/y.sidorov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> </p>
+- 🚀 **[AI-native Rails 8 SaaS Template](https://github.com/newstler/template)** — Production-ready starter with MCP server, RubyLLM chat, magic-link auth, multitenancy, Stripe billing
+- 🚂 **[Bullet Train Framework](https://bullettrain.co)** — Core team member automating API and OpenAPI documentation
+- 📄 **[Jbuilder::Schema](https://github.com/bullet-train-co/jbuilder-schema)** — Gem generating OpenAPI 3.1 schemas from Jbuilder templates. Cut docs time by 99%
+- 📱 **[RRule Swift Package](https://github.com/newstler/rrule)** — High-performance recurring event calculation for iOS
 
--->
-<!--
-<p align="left">
-<a href="http://www.github.com/newstler"><img src="https://github-readme-stats.vercel.app/api?username=newstler&show_icons=true&count_private=true&theme=transparent&hide_border=true&custom_title=Github%20Stats&title_color=777777&text_color=777777&icon_color=FFDD00&ring_color=FFDD00" alt="newstler's GitHub stats" /></a>
-</p>
--->
-### Support
+### Stack
 
-<!--
-<a href="http://stand-with-ukraine.pp.ua" target="_blank"><img src="https://github.com/newstler/newstler/blob/main/images/stand_with_ukraine.png?raw=true" width="200" /></a>
--->
-<a href="https://www.buymeacoffee.com/yurisidorov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+`Ruby 4.0` · `Rails 8` · `Hotwire` · `Solid Queue/Cache/Cable` · `Kamal` · `PostgreSQL` · `OpenAPI` · `RubyLLM` · `Fast-MCP` · `Claude Code` · `Swift` · `Docker` · `AWS`
+
+### Where to find me
+
+🌍 Rosamar, Spain · [yurisidorov.com](https://yurisidorov.com) · [blog](https://blog.yurisidorov.com) · [LinkedIn](https://www.linkedin.com/in/yurisidorov/)
